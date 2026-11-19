@@ -1,0 +1,5 @@
+lab1/data/
+lab1/runs/
+.ipynb_checkpoints/
+__pycache__/
+*.pt
